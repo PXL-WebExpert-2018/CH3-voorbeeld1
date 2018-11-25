@@ -1,6 +1,6 @@
-# Ch3Voorbeeld1
+# Ch3 Voorbeeld1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+This example shows you a custom made login component with basic databinding and eventbinding. Run `npm install` before running this application.
 
 ## Development server
 
